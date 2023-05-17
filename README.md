@@ -59,4 +59,11 @@ Questa descrizione è volutamente incompleta e aperta a diversa interpretazione.
     - Scrivere un piano di accesso fisico efficiente per i suddetti tre piani di accesso logico che non fanno uso di indici, e (opzionale) verificare se la sort prima della Group By può essere evitata.
     - Scrivere un piano di accesso fisico efficiente per i tre suddeti piani di accesso logico che fanno uso di due indici (o comunque del numero massimo di indici possibili), e (opzionale) verificare se la sort prima della Group By può essere evitata.
 
+# Schema concettuale
+
+<img src="Schemi/EasyRegattaConcettuale.svg">
+
+# Schema logico
+
+<img src="Schemi/EasyRegattaLogico.svg">
 
