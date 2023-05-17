@@ -61,9 +61,9 @@ Questa descrizione è volutamente incompleta e aperta a diversa interpretazione.
 
 # Schema concettuale
 
-<img src="Schemi/EasyRegattaConcettuale.svg">
+<img src="Schemi/EasyRegattaConcettuale.svg"/>
 
 # Schema logico
 
-<img src="Schemi/EasyRegattaLogico.svg">
+<img src="Schemi/EasyRegattaLogico.svg"/>
 
